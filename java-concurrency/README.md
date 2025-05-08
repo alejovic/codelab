@@ -2,6 +2,8 @@
 
 This study plan covers foundational concepts, historical context, version enhancements, and practical exercises to master Java concurrency tools including Threads, ExecutorService, and Future.
 
+TODO: https://jenkov.com/tutorials/java-concurrency/index.html
+
 ---
 
 ## 📅 Week 1: Java Threads - The Foundation
