@@ -1,4 +1,4 @@
-package codelab.arrays;
+package com.avg.demo.arrays.intermediate;
 
 /**
  * How do you find the maximum subarray sum in an array in Java?

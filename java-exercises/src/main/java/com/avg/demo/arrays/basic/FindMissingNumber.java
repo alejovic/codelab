@@ -1,4 +1,4 @@
-package codelab.arrays;
+package com.avg.demo.arrays.basic;
 
 /**
  * Given an array of integers from 1 to n with one number missing, write a function that returns the missing number.

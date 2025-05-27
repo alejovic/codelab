@@ -1,4 +1,4 @@
-package codelab.arrays;
+package com.avg.demo.arrays.basic;
 
 /**
  * Given an Array of size N and a value K, around which we need to right rotate the array.

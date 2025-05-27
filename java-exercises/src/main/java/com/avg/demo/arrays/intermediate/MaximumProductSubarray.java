@@ -1,4 +1,4 @@
-package codelab.arrays;
+package com.avg.demo.arrays.intermediate;
 
 /**
  * Given an integer array, the task is to find the maximum product of any subarray.
